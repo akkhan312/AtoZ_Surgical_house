@@ -12,14 +12,14 @@ AtoZ Surgical House is a modern, premium medical and surgical equipment e-commer
 ## Screenshots
 
 ### Application & Admin Interface
-![Admin Interface 1](/screenshots/media__1778387514649.jpg)
-![Admin Interface 2](/screenshots/media__1778387514686.jpg)
-![Admin Interface 3](/screenshots/media__1778387514739.jpg)
-![Admin Interface 4](/screenshots/media__1778387514750.jpg)
-![Admin Interface 5](/screenshots/media__1778387514796.png)
-![Admin Interface 6](/screenshots/media__1778387527227.png)
-![User Interface 1](/screenshots/media__1778387527269.png)
-![User Interface 2](/screenshots/media__1778387546296.png)
+![Admin Interface 1](public/screenshots/media__1778387514649.jpg)
+![Admin Interface 2](public/screenshots/media__1778387514686.jpg)
+![Admin Interface 3](public/screenshots/media__1778387514739.jpg)
+![Admin Interface 4](public/screenshots/media__1778387514750.jpg)
+![Admin Interface 5](public/screenshots/media__1778387514796.png)
+![Admin Interface 6](public/screenshots/media__1778387527227.png)
+![User Interface 1](public/screenshots/media__1778387527269.png)
+![User Interface 2](public/screenshots/media__1778387546296.png)
 
 ## Getting Started
 
